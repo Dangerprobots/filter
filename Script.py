@@ -1,15 +1,15 @@
 class script(object):
-    START_TXT = """<b>Hello {} 👋🏻 Im Search Bot I can share Movies and Series 😁.</b>
+    START_TXT = """<b>Hello {} 👋🏻 Im Search Bot I can share Series 😁.</b>
     
-  𝙅𝙤𝙞𝙣 @nvsmovielink
+  𝙅𝙤𝙞𝙣 @danger_bots
 
 ○ Notice 📙:-
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @tgnvs
+😎 Powered by @danger_bots
 
-©️ Maintained By @nvscloudx
+©️ Maintained By @dangerbots
 """
 
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -19,9 +19,9 @@ class script(object):
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @tgnvs @nvsmovielink
+😎 Powered by @danger_bots
 
-©️ Maintained By @nvscloudx"""
+©️ Maintained By @danger_bots"""
 
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/angel_luciferbot><b>𝙻𝚄𝙲𝙸𝙵𝙴𝚁 𝙼𝙾𝚁𝙽𝙸𝙽𝙶𝚂𝚃𝙰𝚁</b></a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/nvscloudx><b>𝙽𝚅𝚂𝙲𝙻𝙾𝚄𝙳𝚇</b></a>\n
