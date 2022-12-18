@@ -23,12 +23,12 @@ class script(object):
 
 ©️ Maintained By @danger_bots"""
 
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/angel_luciferbot><b>𝙻𝚄𝙲𝙸𝙵𝙴𝚁 𝙼𝙾𝚁𝙽𝙸𝙽𝙶𝚂𝚃𝙰𝚁</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/nvscloudx><b>𝙽𝚅𝚂𝙲𝙻𝙾𝚄𝙳𝚇</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/series_dbot><b>seriesbot</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/danger_of_telegram><b>Anonymous kid </b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : 𝚅𝙿𝚂\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/tgnvs><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/danger_bots><b></b>dangerbots</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>Donation</b>
 <b>Thanks for showing interest in donation
@@ -41,8 +41,8 @@ Of 10₹,20₹,30₹,50₹,100₹ 😁
 
 💸Payment Methods:
 Only UPI
-UPI:-</b> tgnvs@airtel
--<b> <a href=https://upier.vercel.app/pay/tgnvs@airtel?am=15>Donation Link</a></b>"""
+UPI:-</b> @danger_bots
+-<b> <a href=https://t.me/danger_bots>Donation Link</a></b>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
